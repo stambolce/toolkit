@@ -9,7 +9,9 @@
 [![Premium](https://img.shields.io/badge/EXPLORE-PREMIUM-F59E0B?style=for-the-badge)](https://toolkit.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-2563EB?style=for-the-badge)](https://processin.mk)
 
-### All-in-one web tools for daily tasks.\n\n**Free tools · Premium €49/year · Independently purchased add-ons**
+### All-in-one web tools for daily tasks.
+
+**Free tools · Premium €49/year · Independently purchased add-ons**
 
 **Developer · SEO · Text · Security · Generators · Converters · PDF · Imaging · Marketing**
 
