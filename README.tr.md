@@ -1,31 +1,21 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://toolkit.mk"><img src="assets/toolkit-hero.svg" alt="Toolkit — all-in-one online web tools platform" width="100%" /></a>
+# Toolkit
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/toolkit-hero.svg" alt="Toolkit — ürün görsel sunumu" width="100%" />
+
+**Görev için doğru araç, tek yerde.**
 
 [![Official Website](https://img.shields.io/badge/TOOLKIT.MK-OFFICIAL_WEBSITE-2563EB?style=for-the-badge)](https://toolkit.mk)
 [![Explore Tools](https://img.shields.io/badge/BROWSE-ALL_TOOLS-14233C?style=for-the-badge)](https://toolkit.mk)
 [![Premium](https://img.shields.io/badge/EXPLORE-PREMIUM-F59E0B?style=for-the-badge)](https://toolkit.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-2563EB?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-
-
-### Görev için doğru araç, tek yerde.
-
-**Görev için doğru araç, tek yerde.**
+**LIVE**
 
 </div>
-
----
-
-
 
 ## Görev için doğru araç
 
@@ -94,7 +84,7 @@ Instagram Media Pro platform sınırları ve içerik haklarına tabi desteklenen
 |---|---|
 | Ürün | Toolkit |
 | Resmî site | [toolkit.mk](https://toolkit.mk) |
-| Kategori | Online araçlar, Premium ve eklentiler |
+| Kategori | Online araçlar ve verimlilik |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |

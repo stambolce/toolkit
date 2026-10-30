@@ -1,31 +1,21 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://toolkit.mk"><img src="assets/toolkit-hero.svg" alt="Toolkit — all-in-one online web tools platform" width="100%" /></a>
+# Toolkit
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/toolkit-hero.svg" alt="Toolkit — prezantim vizual i produktit" width="100%" />
+
+**Mjeti i duhur për detyrën, në një vend.**
 
 [![Official Website](https://img.shields.io/badge/TOOLKIT.MK-OFFICIAL_WEBSITE-2563EB?style=for-the-badge)](https://toolkit.mk)
 [![Explore Tools](https://img.shields.io/badge/BROWSE-ALL_TOOLS-14233C?style=for-the-badge)](https://toolkit.mk)
 [![Premium](https://img.shields.io/badge/EXPLORE-PREMIUM-F59E0B?style=for-the-badge)](https://toolkit.mk)
 [![Developer](https://img.shields.io/badge/BUILT_BY-PROCESS_IN-2563EB?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-
-
-### Mjeti i duhur për detyrën, në një vend.
-
-**Mjeti i duhur për detyrën, në një vend.**
+**LIVE**
 
 </div>
-
----
-
-
 
 ## Mjeti i duhur për detyrën
 
@@ -94,7 +84,7 @@ Instagram Media Pro mbulon rrjedhat e mbështetura, sipas kufijve të platformë
 |---|---|
 | Produkti | Toolkit |
 | Faqja zyrtare | [toolkit.mk](https://toolkit.mk) |
-| Kategoria | Mjete online, Premium dhe shtesa |
+| Kategoria | Mjete online dhe produktivitet |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
