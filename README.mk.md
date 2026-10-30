@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://toolkit.mk"><img src="assets/toolkit-hero.svg" alt="Toolkit — визуелна презентација на PROCESS IN" width="100%" /></a>
